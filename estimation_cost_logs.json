@@ -1,0 +1,20 @@
+[
+    {
+        "model_name": "ann_granular_model_v1.0",
+        "timestamp": "2025-09-09T00:07:03.250106",
+        "predicted_budget_php": 22255980.0,
+        "user_inputs": {
+            "quantities": {
+                "plaster_qty": 1000.0,
+                "glazed_tiles_qty": 80.0,
+                "painting_masonry_qty": 1800.0,
+                "painting_wood_qty": 90.0,
+                "painting_metal_qty": 90.0,
+                "chb_100mm_qty": 170.0,
+                "chb_150mm_qty": 500.0
+            },
+            "storeys": 2.0,
+            "classrooms": 7.0
+        }
+    }
+]
